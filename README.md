@@ -1,4 +1,35 @@
+All Dependencies we've currently have used is
+1. Link : https://nodejs.org/en/ 
+   Description: Node.js is an open source cross-platform Javascript runtime environment
+
+
+Initial Steps for instantiating/building the project to have React files
+1. npm init react-app reactjs  (Professor and TA do not need to do this as the dependencies and libraries are already implemented and installed in the project.) 
+
+
+To run the build process to create an executable version of the product.
+Go to Link:https://github.com/HelianthusNS/Coen174
+
+Then we have to download the project from Github, you can do this by pressing the green <> Code button on the github link and downloading the zip file. 
+
+After everything is downloaded, we can go into the the directory and then cd into the folder .\jamify\ 
+In the folder type the command: npm start 
+Now it will say that you 
+		  Local:            http://localhost:3000
+  On Your Network:  http://192.168.56.1:3000
+Now you can visit http://localhost:3000 to check the build. This will be our first unit testing infrastructure and from seeing this our logo you can see that our smoke test verified that the testing infrastructure is working. 
+
+
+
+_______________________________________________________________________________________________________________________________________________________________
+Rest of the readme below was generated using the command npm init react-app reactjs and is detailed command on how use create react app 
+
+
+
 # Getting Started with Create React App
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
